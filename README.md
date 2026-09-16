@@ -1,5 +1,7 @@
 # Daniel Khisa — personal portfolio
 
+**Live site:** [dankhisa.github.io](https://dankhisa.github.io/)
+
 A personal portfolio connecting audit, risk, regulation and governance with
 practical tool-building. The featured project is the
 [Bermuda Compliance Navigator](https://dankhisa.github.io/bermuda-compliance-navigator/).
