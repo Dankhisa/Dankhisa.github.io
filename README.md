@@ -25,3 +25,6 @@ hosts the site from the `main` branch at the repository root.
 This is an independent personal portfolio. Projects are educational
 demonstrations, not professional advice or employer/regulatory endorsements.
 The portfolio links to public work and its source code on GitHub.
+
+
+September 2026 update: added a concise Navigator case study, AI-assistance disclosure, public verification link and local social-preview asset. Private employer/career specifics are excluded. Fresh browser interaction checks remain outstanding; see the Navigator verification record.
